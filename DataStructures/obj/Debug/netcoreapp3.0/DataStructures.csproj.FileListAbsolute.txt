@@ -9,3 +9,14 @@ C:\Users\15TookeC\source\repos\DataStructures\DataStructures\bin\Debug\netcoreap
 C:\Users\15TookeC\source\repos\DataStructures\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.pdb
 C:\Users\15TookeC\source\repos\DataStructures\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.dll
 C:\Users\15TookeC\source\repos\DataStructures\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.pdb
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.exe
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.deps.json
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.runtimeconfig.json
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.runtimeconfig.dev.json
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.dll
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\bin\Debug\netcoreapp3.0\DataStructures.pdb
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.csprojAssemblyReference.cache
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.AssemblyInfoInputs.cache
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.AssemblyInfo.cs
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.dll
+C:\0 SCRATCH AREA\CTOOKE\DataStructure\DataStructures\obj\Debug\netcoreapp3.0\DataStructures.pdb

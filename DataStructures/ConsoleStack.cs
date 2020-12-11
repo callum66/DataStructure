@@ -4,6 +4,9 @@ using System.Text;
 
 namespace DataStructures
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class ConsoleStack : Stack
     {
         public ConsoleStack(int size) : base(size)
